@@ -1,4 +1,5 @@
 # quotes-full-stack
+This app allows you to insert quotes as list items.
 
 ![quotes](https://github.com/gabrielacepeda/quotes-full-stack/blob/master/quotes/quotespreview.png)
 
