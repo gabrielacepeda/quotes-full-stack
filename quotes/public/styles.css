@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+}
+h1{
+  color: #96858F;
+}
+h2{
+  color: #6D7993;
+}
+
+span{
+  color: #595959;
+}
+
+.messages{
+  list-style-type: none;
+}
